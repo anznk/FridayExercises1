@@ -6,10 +6,34 @@ public class Rectangle {
     private String color;
 
     // constructor
+    public Rectangle(int width, int height){
+        if (width < 1){
+            this.width = 1;
+        } else {
+            this.width = width;
+        }
+        if (height < 1){
+            this.height = 1;
+        } else {
+            this.height = height;
+        }
+    }
     public Rectangle(int width, int height, String color){
-        this.width = width;
-        this.height = height;
-        this.color = color;
+        if (width < 1){
+            this.width = 1;
+        } else {
+            this.width = width;
+        }
+        if (height < 1){
+            this.height = 1;
+        } else {
+            this.height = height;
+        }
+        if ( 2 <= color.length() && color.length() < 20 ){
+            this.color = color;
+        } else {
+            this.color = "Blue";
+        }
     }
     // draw method
     public void draw() {
