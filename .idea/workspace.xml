@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="089f9cb4-eb8b-46dc-98e2-2d282be9f77e" name="Default Changelist" comment="" />
+    <list default="true" id="089f9cb4-eb8b-46dc-98e2-2d282be9f77e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/ForLoops/CountingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/ForLoops/CountingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/IfStatements/HowOldAreYouSpecifically.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/IfStatements/HowOldAreYouSpecifically.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/KeyboardInput/NameAgeSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/KeyboardInput/NameAgeSalary.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="RunManager" selected="Application.CountingMachine">
     <configuration name="AddingValuesInLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week1.WhileLoops.AddingValuesInLoop" />
       <module name="FridayExercise1" />
@@ -103,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountingMachine" />
         <item itemvalue="Application.Driver" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.CountingMachine" />
         <item itemvalue="Application.AddingValuesInLoop" />
         <item itemvalue="Application.HowOldAreYouSpecifically" />
       </list>
@@ -129,7 +134,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

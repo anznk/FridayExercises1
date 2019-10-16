@@ -7,7 +7,6 @@ public class CountingMachine {
         Scanner in = new Scanner(System.in);
         System.out.print("Count to: ");
         int num = Integer.parseInt(in.nextLine());
-        System.out.print("\n");
         for (int i = 0; i <= num; i++){
             System.out.print(i + " ");
         }

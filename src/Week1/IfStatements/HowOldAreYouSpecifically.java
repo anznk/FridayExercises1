@@ -10,13 +10,13 @@ public class HowOldAreYouSpecifically {
         System.out.print("Ok, " + name + ", how old are you?");
         int age = Integer.parseInt(in.nextLine());
         if (age >=25){
-            System.out.println("\nYou can do pretty much anything, " + name);
+            System.out.println("\nYou can do pretty much anything, " + name + ".");
         } else if (age >= 18 && age <= 24){
-            System.out.println("\nYou can vote but not rent a car, " + name);
+            System.out.println("\nYou can vote but not rent a car, " + name + ".");
         } else if (age >= 16 && age <= 17){
-            System.out.println("\nYou can drive but not vote, " + name);
+            System.out.println("\nYou can drive but not vote, " + name + ".");
         } else {
-            System.out.println("\nYou can't drive, " + name);
+            System.out.println("\nYou can't drive, " + name + ".");
         }
     }
 }

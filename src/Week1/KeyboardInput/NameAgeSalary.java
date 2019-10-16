@@ -7,7 +7,7 @@ public class NameAgeSalary {
         Scanner in = new Scanner(System.in);
         System.out.println("Hello.  What is your name?");
         String name = in.nextLine();
-        System.out.println("\nHi, " + name + "  How old are you?");
+        System.out.println("\nHi, " + name + "!  How old are you?");
         int age = Integer.parseInt(in.nextLine());
         System.out.println("\n\nSo you're " + age + ", eh?  That's not old at all!\nHow much do you make, " + name + "?");
         double salary = Double.parseDouble(in.nextLine());
