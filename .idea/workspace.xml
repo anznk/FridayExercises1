@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="089f9cb4-eb8b-46dc-98e2-2d282be9f77e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/ForLoops/CountingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/ForLoops/CountingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/IfStatements/HowOldAreYouSpecifically.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/IfStatements/HowOldAreYouSpecifically.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/KeyboardInput/NameAgeSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/KeyboardInput/NameAgeSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FridayExercise1/Week1/Classes/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FridayExercise1/Week1/Classes/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FridayExercise1/Week1/ForLoops/CountingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FridayExercise1/Week1/ForLoops/CountingMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/Classes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/Classes/Rectangle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountingMachine">
-    <configuration name="AddingValuesInLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1.WhileLoops.AddingValuesInLoop" />
+  <component name="RunManager" selected="Application.GettingTheLargestValue">
+    <configuration name="BasicArrayLists2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.ArrayLists.BasicArrayLists2" />
       <module name="FridayExercise1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week1.WhileLoops.*" />
+          <option name="PATTERN" value="Week2.ArrayLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowOldAreYouSpecifically" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1.IfStatements.HowOldAreYouSpecifically" />
+    <configuration name="GettingTheLargestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.ArrayLists.GettingTheLargestValue" />
       <module name="FridayExercise1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week1.IfStatements.*" />
+          <option name="PATTERN" value="Week2.ArrayLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountingMachine" />
+        <item itemvalue="Application.GettingTheLargestValue" />
+        <item itemvalue="Application.BasicArrayLists2" />
         <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.CountingMachine" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.AddingValuesInLoop" />
-        <item itemvalue="Application.HowOldAreYouSpecifically" />
       </list>
     </recent_temporary>
   </component>
@@ -141,17 +141,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Week1/Classes/Rectangle.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FridayExercise1$CountingMachine.ic" NAME="CountingMachine Coverage Results" MODIFIED="1570835123078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
